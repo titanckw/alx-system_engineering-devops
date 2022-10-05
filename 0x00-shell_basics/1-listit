@@ -1,2 +1,2 @@
 #!/bin/bashh
-ls /n
+ls \n
