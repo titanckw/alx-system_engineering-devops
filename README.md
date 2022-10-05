@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-System Engineering
+Writing a script
