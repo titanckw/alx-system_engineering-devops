@@ -7,6 +7,7 @@ chmod u+x hello - creates a script that adds execute permisison to the owner of 
 chmod ug+x,o+r hello - a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 chmod ug+x,o hello - creates a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 chmod 007 - creates a script that sets the permission to the file hello as follows:
-Owner: no permission at all
-Group: no permission at all
-Other users: all the permissio 
+ Owner: no permission at all
+ Group: no permission at all
+ Other users: all the permission
+chmod 753 hello 
