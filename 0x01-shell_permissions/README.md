@@ -10,4 +10,5 @@ chmod 007 - creates a script that sets the permission to the file hello as follo
  Owner: no permission at all
  Group: no permission at all
  Other users: all the permission
-chmod 753 hello 
+chmod 753 hello - Write a script that sets the mode of the file hello to -rwxr-x-wx
+chmod --reference=olleh hello - Write a script that sets the mode of the file hello the same as olleh’s mode.  
