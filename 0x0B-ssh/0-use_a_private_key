@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # this script creates the ssh file
-ssh -i ~/.ssh/school ubuntu@54.175.146.218
+ssh -i ~/.ssh/school ubuntu@100.25.14.183
