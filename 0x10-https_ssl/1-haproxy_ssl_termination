@@ -46,6 +46,6 @@ frontend nimasolutions.tech
 
 backend nimasolutions.tech_backend
         balance roundrobin
-        server 64820-web-01 54.236.45.28 check
-        server 64820-web-02 52.3.241.77 check
+        server 64820-web-01 54.152.130.173 check
+        server 64820-web-02 52.88.241.89 check
 
